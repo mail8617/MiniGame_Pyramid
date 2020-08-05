@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4561567cdd64de34fba44b97934dfbcb, type: 3}
+    totalSpriteSurfaceArea: 84744
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 269c8a806fd0d3e48bf499fa87609294, type: 3}
+  - {fileID: 21300000, guid: a8f4701190d2ff9479fe9fe35b390d1a, type: 3}
+  - {fileID: 21300000, guid: 10db81a29882aee4fbfff0687570707b, type: 3}
+  - {fileID: 21300000, guid: 8f93d005a1af7e840afbe3434e72d3e8, type: 3}
+  - {fileID: 21300000, guid: 259e60250243a754484f3d82c255369f, type: 3}
+  - {fileID: 21300000, guid: b9a26255625bfc642bf5112b9e02946e, type: 3}
+  - {fileID: 21300000, guid: 6d184e3655d842947b9b138fba7b1510, type: 3}
+  - {fileID: 21300000, guid: 7c9b61966b462c445a249b1f365b4898, type: 3}
+  - {fileID: 21300000, guid: 9ed56d098256e2840833aae876100dac, type: 3}
+  - {fileID: 21300000, guid: 780a5d59815d90943b2879458500b752, type: 3}
+  - {fileID: 21300000, guid: 5dbb796a09cfb90428e8a4ae9d7a15d0, type: 3}
+  - {fileID: 21300000, guid: e70aa77b9c36b314099684d67683ea8b, type: 3}
+  - {fileID: 21300000, guid: 6b280c0ca24296b4aa23f5518c9b6455, type: 3}
+  - {fileID: 21300000, guid: db99168c1f67d344dbac9160fb9f5a04, type: 3}
+  - {fileID: 21300000, guid: 4b24257e1bba19d4fa5998d2359ff064, type: 3}
+  - {fileID: 21300000, guid: 52d426bf8ab873c4e92039d8cfee8ec1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Green
+  - Red_Selected
+  - board_Selected
+  - Purple
+  - Blue_Selected
+  - White_Selected
+  - Blue
+  - Arrow
+  - Purple_Selected
+  - Green_Selected
+  - White
+  - board
+  - Red
+  - close-button_icon
+  - Joker_Selected
+  - Joker
+  m_Tag: InGame
+  m_IsVariant: 0
